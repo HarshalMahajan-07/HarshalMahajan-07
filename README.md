@@ -1,7 +1,8 @@
 ## 📄 Resume
 You can download my resume using the link below:
 
-[⬇️ Download My Resume (PDF)](Python_Devloper_Harshal_Mahajan.pdf)
+[⬇️ Download My Resume (PDF)](assets/Python_Devloper_Harshal_Mahajan.pdf)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalmahajan07/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshalm577@gmail.com) 
