@@ -1,7 +1,7 @@
 ## 📄 Resume
 You can download my resume using the link below:
 
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge)](assets/resume/Python_Developer_Harshal_Mahajan.pdf)
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge)](assets/resume/Python_Devloper_Harshal_Mahajan.pdf)
 
 
 
