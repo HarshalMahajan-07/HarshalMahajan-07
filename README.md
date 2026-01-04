@@ -24,6 +24,6 @@ You can download my resume using the link below:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HarshalMahajan-07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![Profile views](https://komarev.com/ghpvc/?username=HarshalMahajan-07&label=Profile%20Views&color=blue&style=for-the-badge)<br/>
------
 
+-----
+![Profile views](https://komarev.com/ghpvc/?username=HarshalMahajan-07&label=Profile%20Views&color=blue&style=for-the-badge)<br/>
